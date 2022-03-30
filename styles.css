@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(255, 250, 226);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+html, body {
+    height: 100%;
+}
